@@ -7,8 +7,8 @@ Um pequeno formulário que recebe dois numeros (A e B) e faz a verificação se 
 
 ### 📋 Pré-requisitos
 
-VSCode.
-Navegador.
+* VSCode.
+* Navegador.
 
 
 
